@@ -18,9 +18,15 @@
         }
         header {
             background-color: #1E1E1E;
-            padding: 50px;
-            width: 100%;
-            text-align: center;
+           width: 80%; /* Or any width percentage you prefer */
+    max-width: 1000px; /* This controls the maximum width */
+    margin: 20px auto; /* Auto margins center the section horizontally */
+    padding: 20px;
+    background-color: #1E1E1E;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  text-align: center;
+            
         }
         header h1 {
             margin: 0;
