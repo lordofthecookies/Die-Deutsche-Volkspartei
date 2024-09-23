@@ -18,7 +18,7 @@
         }
         header {
             background-color: #1E1E1E;
-           width: 200%; /* Or any width percentage you prefer */
+           width: 600%; /* Or any width percentage you prefer */
     max-width: 1000px; /* This controls the maximum width */
     margin: 20px auto; /* Auto margins center the section horizontally */
     padding: 20px;
