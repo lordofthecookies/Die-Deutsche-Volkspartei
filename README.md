@@ -53,8 +53,8 @@
             width: 100%;
             text-align: center;
             padding: 10px;
-            position: absolute;
-            bottom: 0;
+            margin-top: 20px;
+            position: relative;
         }
         footer p {
             margin: 0;
