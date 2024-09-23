@@ -19,7 +19,7 @@
         header {
             background-color: #1E1E1E;
             padding: 20px;
-            width: 100%;
+            width: 200%;
             text-align: center;
         }
         header h1 {
