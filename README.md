@@ -39,7 +39,7 @@
         section {
             width: 80%;
             max-width: 1000px;
-            margin: 20px 0;
+            margin: 20px auto; /* Centering the section */
             padding: 20px;
             background-color: #1E1E1E;
             border-radius: 10px;
@@ -53,8 +53,8 @@
             width: 100%;
             text-align: center;
             padding: 10px;
-            position: absolute;
-            bottom: 0;
+            margin-top: 20px;
+            position: relative;
         }
         footer p {
             margin: 0;
