@@ -18,8 +18,8 @@
         }
         header {
             background-color: #1E1E1E;
-            padding: 20px;
-            width: 200%;
+            padding: 50px;
+            width: 100%;
             text-align: center;
         }
         header h1 {
